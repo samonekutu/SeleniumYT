@@ -1,2 +1,2 @@
 # SeleniumYT
-You tube Scrapper   Search youtube get video meta data and play videos within you python script  Utilizing Selenium As wells IPython, pyperclip, urllib Acknowledge help gotten online articles
+You tube Scrapper   Search youtube get video meta data and play videos within you python script  Utilizing Selenium As wells IPython, pyperclip, urllib 
